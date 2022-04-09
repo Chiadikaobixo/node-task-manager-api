@@ -7,10 +7,10 @@ Update user, task and avatar
 Delete user, task and avatar  
 This API also implements Authentication and Authorization of users.  
 
-## Try it out
+# Try it out
 For a demo check this link https://chiadi-task-manager.herokuapp.com
 
-## Getting Started
+# Getting Started
 These instructions will get a copy of the project up and running on your machine for development.
 
 # Requirements
@@ -35,7 +35,7 @@ npm run dev
 
 Navigate to localhost:3000 to see the API
 
-## Documentation
+# Documentation
 Setting up Config
 Navigate to dev.env file and set up the missing environment variables which includes
 
