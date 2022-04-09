@@ -40,7 +40,7 @@ Setting up Config
 Navigate to dev.env file and set up the missing environment variables which includes
 
 PORT : this is optional or you can set it to 3000  
-MAILGUN_API_KEY: Register with [mailgun] (https://www.mailgun.com "mailgun") and get their Api key in other to recieve an email when you signup and logout (optional i.e if you dont want to recieve email when you sign up) 
+MAILGUN_API_KEY: Register with [mailgun](https://www.mailgun.com "mailgun") and get their Api key in other to recieve an email when you signup and logout (optional i.e if you dont want to recieve email when you sign up) 
 MONGOOSE : use your local MongoDb url which should like this mongodb://localhost:27017/   **Database_name**
 JWT_SECRET : this could be any value e.g mytaskmanagerapi  
 Registration  
